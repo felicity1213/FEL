@@ -1,0 +1,4 @@
+laser_simulation是REGAE驱动激光传输的模拟，意在说明基本方法。
+此外，ocelot还可以用于模拟thz的传输，并可以借助ocelot内置的优化函数对系统进行优化。
+有啥问题不要问我，我也没看懂，看参考文献。
+Floettmann, K. (2020). Equivalence of Gouy and Courant-Snyder phase. Physical Review A, 102(3), 033507.
